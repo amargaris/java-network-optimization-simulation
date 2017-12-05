@@ -1,0 +1,15 @@
+
+connect to: 9999
+Connected Successfuly
+Manager: get-ip
+ Agent:177.33.22.1
+Manager: set-ip-127.0.0.1
+ Agent: Ip changed to: 127.0.0.1
+Manager: get-ip
+ Agent:127.0.0.1
+Manager: help
+ Agent:invalid command :
+Manager: get-all
+ Agent:invalid attribute 
+Manager: quit
+ Agent:quit

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="libs"/>
+	<classpathentry kind="lib" path="libs/JOCL-0.1.3a-beta.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="java-network-optimization-simulation/binaries"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/SNMP4J-agent.jar"/>
+	<classpathentry kind="lib" path="libs/SNMP4J-CLT.jar"/>
+	<classpathentry kind="lib" path="libs/synthetica.jar"/>
+	<classpathentry kind="lib" path="libs/syntheticaBlackEye.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
